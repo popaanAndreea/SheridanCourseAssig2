@@ -4,6 +4,8 @@ Description:
 Sheridan College course app UI/UX for an assignment that was made in Figma.
 
 Screenshots:
+
+
 <img width="204" alt="Login" src="https://user-images.githubusercontent.com/47037954/220491400-6dbbdc2a-497e-4ab9-b19b-8e7bd5532e49.png">
 <img width="204" alt="Home" src="https://user-images.githubusercontent.com/47037954/220491398-3fc1b368-e529-4d49-8fc2-6dc7a66aea7b.png">
 <img width="204" alt="Course" src="https://user-images.githubusercontent.com/47037954/220491397-08f424e0-574d-4c7d-98b5-ca433b180a06.png">
